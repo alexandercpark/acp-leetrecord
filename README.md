@@ -7,6 +7,7 @@
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./solutions/70.%20Climbing%20Stairs.js)|100 ms|
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.js)|79 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|112 ms|
+|217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./solutions/217.%20Contains%20Duplicate.js)|88 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](./solutions/226.%20Invert%20Binary%20Tree.js)|88 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./solutions/242.%20Valid%20Anagram.js)|123 ms|
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](./solutions/278.%20First%20Bad%20Version.js)|61 ms|
