@@ -26,5 +26,5 @@ var longestPalindrome = function(s) {
         }
     }
     
-    return hasOdd ? evens + 1 : evens;
+    return hasOdd ? soln + 1 : soln;
 };
