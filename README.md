@@ -5,6 +5,7 @@
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](./solutions/1.%20Two%20Sum.js)|98 ms|
 |20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./solutions/20.%20Valid%20Parentheses.js)|76 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./solutions/53.%20Maximum%20Subarray.js)|109 ms|
+|56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[JavaScript](./solutions/56.%20Merge%20Intervals.js)|170 ms|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./solutions/70.%20Climbing%20Stairs.js)|100 ms|
 |94|[ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[JavaScript](./solutions/94.%20Binary%20Tree%20Inorder%20Traversal.js)|56 ms|
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.js)|79 ms|
