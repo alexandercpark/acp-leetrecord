@@ -18,6 +18,7 @@
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](./solutions/278.%20First%20Bad%20Version.js)|61 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](./solutions/383.%20Ransom%20Note.js)|96 ms|
 |409|[ Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[JavaScript](./solutions/409.%20Longest%20Palindrome.js)|110 ms|
+|543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[JavaScript](./solutions/543.%20Diameter%20of%20Binary%20Tree.js)|95 ms|
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./solutions/704.%20Binary%20Search.js)|112 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./solutions/733.%20Flood%20Fill.js)|104 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JavaScript](./solutions/876.%20Middle%20of%20the%20Linked%20List.js)|79 ms|
