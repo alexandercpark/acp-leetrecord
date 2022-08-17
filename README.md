@@ -24,4 +24,5 @@
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[JavaScript](./solutions/543.%20Diameter%20of%20Binary%20Tree.js)|95 ms|
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./solutions/704.%20Binary%20Search.js)|112 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./solutions/733.%20Flood%20Fill.js)|104 ms|
+|804|[ Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[JavaScript](./solutions/804.%20Unique%20Morse%20Code%20Words.js)|72 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JavaScript](./solutions/876.%20Middle%20of%20the%20Linked%20List.js)|79 ms|
