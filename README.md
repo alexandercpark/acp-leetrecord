@@ -12,6 +12,7 @@
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.js)|79 ms|
 |110|[ Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[JavaScript](./solutions/110.%20Balanced%20Binary%20Tree.js)|78 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|112 ms|
+|129|[ Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[JavaScript](./solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.js)|58 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](./solutions/141.%20Linked%20List%20Cycle.js)|67 ms|
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./solutions/217.%20Contains%20Duplicate.js)|88 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](./solutions/226.%20Invert%20Binary%20Tree.js)|88 ms|
